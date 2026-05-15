@@ -2,6 +2,12 @@
 
 Проект по бинарной классификации текстов на сгенерированные ИИ и написанные человеком с использованием TF-IDF и логистической регрессии.
 
+## Датасет
+ **AI vs Human Text Classification Dataset (2026)**  
+  Автор: Alitaqi Shah  
+  https://www.kaggle.com/datasets/alitaqishah/ai-vs-human-text-classification-dataset-2026
+
+
 ## Что сделано
 - Загрузка датасета
 - Удаление дубликатов текстов
