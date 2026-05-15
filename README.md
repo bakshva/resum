@@ -8,8 +8,21 @@
 - Классический ML - регрессия, классификация, работа с выбросами
 - Базовый PyTorch (тензоры, базовые операции)
 - Git
-
-## Сейчас изучаю
 - NLP
-- SQL
+
+
+### Авторы датасетов
+В проектах использовались следующие открытые датасеты с Kaggle:
+
+- **Student Performance (Multiple Linear Regression)**  
+  Автор: Nikhil Narayan (nikhil7280)  
+  https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression
+
+- **Iris Dataset**  
+  Автор: Himanshu Nakrani  
+  https://www.kaggle.com/datasets/himanshunakrani/iris-dataset
+
+- **AI vs Human Text Classification Dataset (2026)**  
+  Автор: Alitaqi Shah  
+  https://www.kaggle.com/datasets/alitaqishah/ai-vs-human-text-classification-dataset-2026
 
